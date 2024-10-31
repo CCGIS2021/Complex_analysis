@@ -110,3 +110,5 @@ Transformer: 利用Transformer模型对图像特征和文本特征进行联合�
 
 
 基于以上分析，本项目的技术方案可行，具有较高的技术可行性。相信通过本项目的开展，能够推动智能地图技术的进步，为智慧城市、地理信息服务等领域提供技术支持。
+
+Ref:（https://github.com/InternLM/Tutorial）
